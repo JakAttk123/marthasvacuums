@@ -1,0 +1,58 @@
+@import 'mainstyle';
+@import 'titlestyle';
+
+#homeButton {
+  border-bottom: .1em #FFF solid;
+}
+
+.sectionTitle {
+  color: rgb(36, 173, 205);
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: .6em;
+  margin-bottom: .6em;
+  font-family: 'Quattrocento Sans';
+}
+
+.mainContent {
+  width: 85vw;
+  margin: 2em auto;
+}
+
+.contentTwoBackground {
+  background-color: rgb(36, 173, 205);
+  width: 100%;
+  padding-top: .1em;
+}
+
+.contentTwo {
+  width: 85vw;
+  margin: 2em auto;
+}
+
+.mainImage {
+  height: 13em;
+  float: right;
+  margin-right: 2.5em;
+}
+
+.contentText {
+  font-family: 'Open Sans';
+  display: inline-block;
+  font-size: 1.5em;
+}
+
+.white {
+  color: white;
+}
+
+.awards {
+  text-align: center;
+}
+
+.award {
+  display: inline-block;
+  margin: 1em;
+  margin-top: 0;
+  width: 17em;
+}
